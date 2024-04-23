@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Java 17
 - Maven
-- 
+  
 ### Installing
 
 1. Clone the repository
