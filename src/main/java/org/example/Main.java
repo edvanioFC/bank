@@ -1,7 +1,5 @@
 package org.example;
-
 import account.BankAccount;
-import account.DepositAccount;
 import account.Holder;
 import account.SavingsAccount;
 
